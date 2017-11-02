@@ -1,2 +1,2 @@
 # GitTesting
-For figuring out commands
+## For figuring out commands
